@@ -1,4 +1,4 @@
-require "active_support/all"
+require 'active_support/all'
 
 now = Time.now
 puts now.beginning_of_week
